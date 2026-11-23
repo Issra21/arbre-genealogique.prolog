@@ -1,6 +1,6 @@
 # Système intelligent d'analyse des arbres généalogiques
 
-Projet de la matière Programmation et Intelligence Artificielle (sujet n°10).
+Projet de la matière Programmation et Intelligence Artificielle .
 Binôme : Issra Saidi, Etienne.
 
 Le système représente une famille par des faits Prolog, déduit les liens de parenté
