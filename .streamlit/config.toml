@@ -1,0 +1,11 @@
+# Thème clair imposé (même si le système est en mode sombre)
+[theme]
+base = "light"
+primaryColor = "#3B5BDB"
+backgroundColor = "#F5F7FB"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#1F2A44"
+font = "sans serif"
+
+[browser]
+gatherUsageStats = false
